@@ -1,3 +1,11 @@
+# AI Project Gallery — Curated External References
+
+> **Attribution notice:** This is a curated list of third-party AI/ML project repositories for learning and inspiration. The linked projects belong to their respective authors; they are **not my original projects or portfolio achievements**. Please follow each link to see its creator and license.
+>
+> For projects I have worked on, see my [GitHub profile](https://github.com/longzu-ComputerScience) and [LinkedIn](https://www.linkedin.com/in/vuz-long-7b4744393/).
+
+---
+
 | S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
 | 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
